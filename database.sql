@@ -1,4 +1,3 @@
-// Create a table called item with the following columns: id, name, description, price, and quantity
 
 CREATE TABLE item (
   id serial PRIMARY KEY,
